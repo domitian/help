@@ -9,7 +9,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="/" />
-<updated>2014-06-13T17:43:14+05:30</updated>
+<updated>2014-06-14T15:21:17+05:30</updated>
 <id>/</id>
 <author>
   <name>eLitmus.com</name>
@@ -20,7 +20,7 @@
 
 <entry>
   <title type="html"><![CDATA[Using Monit to get email alert on unauthorized login]]></title>
-  <link rel="alternate" type="text/html" href="/technology/using-monit-to-get-email-alert-on-unauthorized-login"/>
+  <link rel="alternate" type="text/html" href="/technology/using-monit-to-get-email-alert-on-unauthorized-login/"/>
   <id>/technology/using-monit-to-get-email-alert-on-unauthorized-login</id>
   <updated>2014-06-04 09:57:11 +0530T00:00:00-00:00</updated>
   <published>2014-06-04T00:00:00+05:30</published>
@@ -117,13 +117,13 @@ SET mail-format &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
 
 
   
-  &lt;p&gt;&lt;a href=&quot;/technology/using-monit-to-get-email-alert-on-unauthorized-login&quot;&gt;Using Monit to get email alert on unauthorized login&lt;/a&gt; was originally published by eLitmus.com at &lt;a href=&quot;&quot;&gt;eLitmus Blog&lt;/a&gt; on June 04, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/technology/using-monit-to-get-email-alert-on-unauthorized-login/&quot;&gt;Using Monit to get email alert on unauthorized login&lt;/a&gt; was originally published by eLitmus.com at &lt;a href=&quot;&quot;&gt;eLitmus Blog&lt;/a&gt; on June 04, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Gotcha's while syntactically translating AES encryption logic from PHP to Ruby]]></title>
-  <link rel="alternate" type="text/html" href="/technology/gotchas-while-syntactically-translating-aes-encryption-logic-from-php-to-ruby"/>
+  <link rel="alternate" type="text/html" href="/technology/gotchas-while-syntactically-translating-aes-encryption-logic-from-php-to-ruby/"/>
   <id>/technology/gotchas-while-syntactically-translating-aes-encryption-logic-from-php-to-ruby</id>
   <updated>2014-05-25 20:39:45 +0530T00:00:00-00:00</updated>
   <published>2014-05-25T00:00:00+05:30</published>
@@ -205,13 +205,13 @@ SET mail-format &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
 
 
   
-  &lt;p&gt;&lt;a href=&quot;/technology/gotchas-while-syntactically-translating-aes-encryption-logic-from-php-to-ruby&quot;&gt;Gotcha's while syntactically translating AES encryption logic from PHP to Ruby&lt;/a&gt; was originally published by eLitmus.com at &lt;a href=&quot;&quot;&gt;eLitmus Blog&lt;/a&gt; on May 25, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/technology/gotchas-while-syntactically-translating-aes-encryption-logic-from-php-to-ruby/&quot;&gt;Gotcha's while syntactically translating AES encryption logic from PHP to Ruby&lt;/a&gt; was originally published by eLitmus.com at &lt;a href=&quot;&quot;&gt;eLitmus Blog&lt;/a&gt; on May 25, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Setting Up Amazon RDS as a Slave to a self-managed MySQL server]]></title>
-  <link rel="alternate" type="text/html" href="/technology/setting-up-amazon-rds-as-a-slave-to-a-self-managed-mysql-server"/>
+  <link rel="alternate" type="text/html" href="/technology/setting-up-amazon-rds-as-a-slave-to-a-self-managed-mysql-server/"/>
   <id>/technology/setting-up-amazon-rds-as-a-slave-to-a-self-managed-mysql-server</id>
   <updated>2014-05-21 20:43:52 +0530T00:00:00-00:00</updated>
   <published>2014-05-21T00:00:00+05:30</published>
@@ -288,13 +288,13 @@ CALL mysql.rds_reset_external_master;
 &lt;/code&gt;&lt;/pre&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;/technology/setting-up-amazon-rds-as-a-slave-to-a-self-managed-mysql-server&quot;&gt;Setting Up Amazon RDS as a Slave to a self-managed MySQL server&lt;/a&gt; was originally published by eLitmus.com at &lt;a href=&quot;&quot;&gt;eLitmus Blog&lt;/a&gt; on May 21, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/technology/setting-up-amazon-rds-as-a-slave-to-a-self-managed-mysql-server/&quot;&gt;Setting Up Amazon RDS as a Slave to a self-managed MySQL server&lt;/a&gt; was originally published by eLitmus.com at &lt;a href=&quot;&quot;&gt;eLitmus Blog&lt;/a&gt; on May 21, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Beware of creating $HOME/.ssh folder by hand, when SELinux is turned on]]></title>
-  <link rel="alternate" type="text/html" href="/technology/beware-of-creating-ssh-folder-by-hand-when-selinux-is-turned-on"/>
+  <link rel="alternate" type="text/html" href="/technology/beware-of-creating-ssh-folder-by-hand-when-selinux-is-turned-on/"/>
   <id>/technology/beware-of-creating-ssh-folder-by-hand-when-selinux-is-turned-on</id>
   <updated>2014-05-23 12:32:45 +0530T00:00:00-00:00</updated>
   <published>2012-07-22T00:00:00+05:30</published>
@@ -349,13 +349,13 @@ CALL mysql.rds_reset_external_master;
 &lt;p&gt;should log you in without asking for a password!&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;/technology/beware-of-creating-ssh-folder-by-hand-when-selinux-is-turned-on&quot;&gt;Beware of creating $HOME/.ssh folder by hand, when SELinux is turned on&lt;/a&gt; was originally published by eLitmus.com at &lt;a href=&quot;&quot;&gt;eLitmus Blog&lt;/a&gt; on July 22, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/technology/beware-of-creating-ssh-folder-by-hand-when-selinux-is-turned-on/&quot;&gt;Beware of creating $HOME/.ssh folder by hand, when SELinux is turned on&lt;/a&gt; was originally published by eLitmus.com at &lt;a href=&quot;&quot;&gt;eLitmus Blog&lt;/a&gt; on July 22, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Importance of Date field in an email's Header]]></title>
-  <link rel="alternate" type="text/html" href="/technology/importance-of-date-field-in-an-emails-header"/>
+  <link rel="alternate" type="text/html" href="/technology/importance-of-date-field-in-an-emails-header/"/>
   <id>/technology/importance-of-date-field-in-an-emails-header</id>
   <updated>2012-04-04 10:20:00 +0530T00:00:00-00:00</updated>
   <published>2012-04-04T00:00:00+05:30</published>
@@ -397,7 +397,7 @@ CALL mysql.rds_reset_external_master;
 
 
   
-  &lt;p&gt;&lt;a href=&quot;/technology/importance-of-date-field-in-an-emails-header&quot;&gt;Importance of Date field in an email's Header&lt;/a&gt; was originally published by eLitmus.com at &lt;a href=&quot;&quot;&gt;eLitmus Blog&lt;/a&gt; on April 04, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/technology/importance-of-date-field-in-an-emails-header/&quot;&gt;Importance of Date field in an email's Header&lt;/a&gt; was originally published by eLitmus.com at &lt;a href=&quot;&quot;&gt;eLitmus Blog&lt;/a&gt; on April 04, 2012.&lt;/p&gt;</content>
 </entry>
 
 </feed>
