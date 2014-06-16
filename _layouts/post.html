@@ -58,7 +58,7 @@
            
             <div>
                 <div>
-                  <span class='label label-warning'> <a href="{{ site.url }}{{ site.baseurl }}/categories/{{ page.category | downcase }}/index.html" }}/index.html" > {{ page.category }} </a></span>
+                  <span class='label label-warning'> <a href="{{ site.url }}{{ site.baseurl }}/categories/{{ page.category | downcase }}/index.html" > {{ page.category }} </a></span>
                 </div>
               {% if page.tldr %}
                 <div class='pull-left date-show'>
@@ -90,6 +90,17 @@
                 <div class="post-content-justify">
                   {{ content }}
                 </div>
+
+                <h3> Related Questions </h3>
+                <ul>                  
+                {% for post in site.related_posts limit:5 %}
+                  {% if post.url %}
+                    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+                  {% endif %}
+                {% endfor %}
+
+                </ul>
+
                 <div class="entry-tags">
                   {% include social-shares.html %}
                 </div>
