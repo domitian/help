@@ -36,7 +36,7 @@ $(document).ready(function() {
     var result = [];
     var jsonData = {};
     var originalJsonData = {};
-    $.getJSON("/blog/search.json", function(json) {
+    $.getJSON("/help/search.json", function(json) {
         // this will show the info it in firebug console
         idx = lunr(function() {
             this.field('category',{ boost: 100})
@@ -62,7 +62,7 @@ $(document).ready(function() {
             result = idx.search(searchValue);
             var searchArray = [];
             if (result.length > 0) {
-                var sliceText = "<a  class='search-results list-group-item' href='/blog"
+                var sliceText = "<a  class='search-results list-group-item' href='/help"
                 for (var index in result) {
                     textToInsert = textToInsert + sliceText + result[index].ref + " '> <b>" + urlToTitle(result[index].ref) + "</b><br><p class='list-group-item-text'>";
                     highlighted = getMoreData(result[index].ref, jsonData, originalJsonData, this.value) + "</p></a>"
