@@ -5,33 +5,27 @@ description: "List of recent blog posts."
 tags: [eLitmus, recent]
 ---
 
-<ul class="post-list">
-{% for post in site.posts limit:10 %} 
-  <li>
-    <span class="entry-date date published">
-      <time datetime="{{ post.date | date_to_xmlschema }}">
-        <i class="fa fa-calendar"></i> {{ post.date | date: "%B %d, %Y" }}
-      </time>
-    </span>
-    <article>
-      <header class="entry-header">
-        <h3 class="entry-title-summary">
-          <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }} 
-          </a>
-        </h3>
-        <div>
-          {% if post.excerpt %} 
-            {% capture full_url %} 
-              {{ site.url }}{{ site.baseurl }}{{ post.url }} 
-            {% endcapture %}
-            
-            {{ post.excerpt }} 
-            <a href="{{ full_url }}" rel="nofollow" class="read-more pull-right"> read more &raquo;</a>
+<div class="row">
+  {% for category in site.categories %}
+    <div class="col-md-4">
+    <a name="{{ category | first }}"><strong>{{ category | first | capitalize }}</strong></a>
+      <ul class='post-list'>
+      {% for posts in category %}
+        {% for post in posts limit:2 %}
+          {% if post.url %}
+            <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
           {% endif %}
-        </div>
-      </header>
-    </article>
-  </li>
-{% endfor %}
-</ul>
+        {% endfor %}
+      {% endfor %}
+      </ul>
+    </li>
+    </div>
+    <div class="clearfix visible-xs"></div>
+  {% endfor %}
+
+
+  {% for post in site.categories.quickstart %}
+  <!-- h2><a href=".{{ post.url }}">{{ post.title }}</a></h2 -->
+  <!-- {{ post.content }} -->
+  {% endfor %}
+</div>
