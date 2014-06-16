@@ -1,5 +1,5 @@
 module Jekyll
-
+  require 'stringex'
   class CategoryPage < Page
     def initialize(site, base, dir, category, category_list)
       @site = site
@@ -27,7 +27,7 @@ module Jekyll
         	site.categories[category].each do |post|
         		category_list << {'url' => post.url, 'title' => post.title, 'date' => post.date}
         	end
-          site.pages << CategoryPage.new(site, site.source, File.join(dir, category), category,category_list)
+          site.pages << CategoryPage.new(site, site.source, File.join(dir, category.to_url), category,category_list)
         end
       end
     end
