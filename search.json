@@ -1,6 +1,566 @@
 [
 	
 		{
+		  "title"    : "Why can&#39;t I apply to companies I applied before?",
+		  "category" : "Apply To Company",
+		  "url"     : "/apply%20to%20company/why-cant-i-apply-to-companies-i-applied-before/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "If you have applied for a company and are not shortlisted for a drive, your candidature will be automatically considered for the further drives, if any. You need not have to apply again."
+		} ,
+	
+		{
+		  "title"    : "Who are eligible for pH test?",
+		  "category" : "Eligibility for pH test",
+		  "url"     : "/eligibility%20for%20ph%20test/who-are-eligible-for-ph-test/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "There is no eligibility criteria as such to take up the pH test. Cuurently, only candidates having/pursuing a degree in BE/B.Tech, MCA, ME/M.Tech or M.Sc(CS/IT) will benefit from the pH test."
+		} ,
+	
+		{
+		  "title"    : "Where can I get my Registration Id/Test Id?",
+		  "category" : "pH Test",
+		  "url"     : "/ph%20test/where-can-i-get-my-registration-id-slash-test-id/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "Registration id is a 12 digit no starting with EL which is unique for the test applied.After applying for a pH test, you can get your Registration Id in the Tests -&amp;gt; My Tests section of your eLitmus account.Test Id is same as that of Registration Id"
+		} ,
+	
+		{
+		  "title"    : "When will I get the Admit card?",
+		  "category" : "Candidates",
+		  "url"     : "/candidates/when-will-i-get-the-admit-card/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "The Admit card will be generated 2 days before the date of the pH test.You need to log into your account and go to Tests–&amp;gt;MyTests, where you will find a link to generate the Admit card just below the Reg Id."
+		} ,
+	
+		{
+		  "title"    : "When will I get a response after applying to companies?",
+		  "category" : "Apply To Company",
+		  "url"     : "/apply%20to%20company/when-will-i-get-a-response-after-applying-to-companies/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "When you apply to a company for a particular vacancy, your pH-scores and your online profile is made visible to the company. Thereafter the transaction is between you and the company. The response time for your application would depend on the companyâs urgency in hiring and the number of applications they have received.  Your status will be updated under the “Interviews” section in your elitmus account whenever a company shortlists you."
+		} ,
+	
+		{
+		  "title"    : "When and how will I receive my pH test scores?",
+		  "category" : "Score",
+		  "url"     : "/score/when-and-how-will-i-receive-my-ph-test-scores/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "pH scores are declared in your account at www.eLitmus.com within 10 days of your pH test date.  You can go to Tests –&amp;gt;Score section to view the score."
+		} ,
+	
+		{
+		  "title"    : "What is the pH test fee?",
+		  "category" : "Payments",
+		  "url"     : "/payments/what-is-the-ph-test-fee/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "The pH test fee is Rs. 750/-.You can either pay in cash (accepted in our Bangalore office only), or send us DD or pay online."
+		} ,
+	
+		{
+		  "title"    : "What is the cutoff percentile to get interview calls?",
+		  "category" : "Score",
+		  "url"     : "/score/what-is-the-cutoff-percentile-to-get-interview-calls/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "Companies typically shortlist students for interview calls on basis of the skill sets required for the job profile.  For every job, eLitmusâ AI engine assigns a rank to each student based on preferences and job profile set by the companies. So it is possible that you might be ranked higher than your friend in company âAâ but in company âBâ your friend is ranked higher despite having a lower score.This could be because Company A is engaged in R&amp;amp;D and hence gives higher weightage to individuals who have solved questions related to following skills â out of box thinking, algorithmic thinking, simplification, relational thinking, encapsulation and abstraction. Company B might be engaged in providing software services work or QA work. And hence will give higher weightage to individuals who have solved questions related to following skills â methodical approach, eye for detail, perseverance, patience etc."
+		} ,
+	
+		{
+		  "title"    : "What is the Candidate Id?",
+		  "category" : "Registration",
+		  "url"     : "/registration/what-is-the-candidate-id/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "Candidate Id is a 6 to 8 digit number which you can get after registering with us. You can view your Candidate Id next to your name on the top right side of the homepage once you log in your eLitmus account."
+		} ,
+	
+		{
+		  "title"    : "What is pH test?",
+		  "category" : "pH Test",
+		  "url"     : "/ph%20test/what-is-ph-test/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "pH test is an analytical and algorithmic thinking test and it evaluates job seekers on a variety of parameters, and grades them nationwide using an advanced statistical model, resulting in a pH score for each candidate.In addition to this, the test score gives one access to some of the most exclusive companies in India. So far eLitmus has served as an evaluation partner for over 200 companies."
+		} ,
+	
+		{
+		  "title"    : "What is Login-id?",
+		  "category" : "Registration",
+		  "url"     : "/registration/what-is-login-id/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "Login id needs to be a valid email id. All our communications would be send to your login id by default."
+		} ,
+	
+		{
+		  "title"    : "What is eLitmus all about?",
+		  "category" : "eLitmus",
+		  "url"     : "/elitmus/what-is-elitmus-all-about/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "eLitmus is an innovative step towards streamlining entry-level recruitments. Our philosophy is to evaluate candidates across India and to provide a standard benchmark against which companies can compare them."
+		} ,
+	
+		{
+		  "title"    : "What is academic criterion for taking the pH test?",
+		  "category" : "Eligibility for pH test",
+		  "url"     : "/eligibility%20for%20ph%20test/what-is-academic-criterion-for-taking-the-ph-test/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "We do not have any academic percentage cutoff for taking the pH test. You need to be either a graduate, final year or pre-final year student."
+		} ,
+	
+		{
+		  "title"    : "What is a percentile? How is it different from percent ?",
+		  "category" : "pH Test",
+		  "url"     : "/ph%20test/what-is-a-percentile-how-is-it-different-from-percent/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "Lot of candidates confuse percentile to percent. They are vastly different and a brief explanation is below.  Let us assume, Ram has scored 80th percentile in pH test. It means 80% of pH test takers have scored less than him and 20% people more than him. Say there are 100000 test takers in an year. So 20% of candidates that is 20,000 in all are above Ram."
+		} ,
+	
+		{
+		  "title"    : "What if I apply to the company but do not meet the criteria?",
+		  "category" : "Apply To Company",
+		  "url"     : "/apply%20to%20company/what-if-i-apply-to-the-company-but-do-not-meet-the-criteria/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "Your application would not be considered if you do not meet the eligibility criteria of the company."
+		} ,
+	
+		{
+		  "title"    : "What documents should I bring to pH test centre?",
+		  "category" : "Candidates",
+		  "url"     : "/candidates/what-documents-should-i-bring-to-ph-test-centre/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "You will have to bring your: a) Xth, XIIth, Graduation/Post graduation certificates. b) All Mark sheets till date; X, XII, Graduation/Post Graduation mark sheets as applicable.(Final year students need to carry the marks sheets till date).c) Government issued Photo identity card (like Driving license, passport, Voter Id card etc).d) Admit Card with photo pasted.  Note: Your pH Test score will be withheld if the above credentials are not verified at the time of test. Additionally, any mismatch of details you provided at the time of registration and that during verification can be corrected by filling the discrepancy column in the admit card at test cente"
+		} ,
+	
+		{
+		  "title"    : "What are the things I need to mention on the backside of DD?",
+		  "category" : "Payments",
+		  "url"     : "/payments/what-are-the-things-i-need-to-mention-on-the-backside-of-dd/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "You need to mention your Name and Registration Id on the backside of the DD.The DD should be made in favour of ‘eLitmus Evaluation Pvt Ltd’ and payable at Bangalore."
+		} ,
+	
+		{
+		  "title"    : "What are the documents I need to carry to the pH test center ?",
+		  "category" : "pH Test",
+		  "url"     : "/ph%20test/what-are-the-documents-i-need-to-carry-to-the-ph-test-center/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "You will have to bring following document in ORIGINAL :  1) Xth, XIIth, Graduation/Post graduation marksheets (Final year students need to carry the marks sheets available till date).  2) Government issued Photo identity card (like Driving license, passport, Voter Id card etc).  3) eLitmus Admit Card with photo pasted.  Your pH Test score will be withheld if the above credentials are not verified at the time of test.  Additionally, any mismatch of details you provided at the time of registration and that during verification can be corrected by filling the discrepancy column in the admit card at test cente."
+		} ,
+	
+		{
+		  "title"    : "What are eLitmus mailing groups ?",
+		  "category" : "pH Test",
+		  "url"     : "/ph%20test/what-are-elitmus-mailing-groups/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "Given that there are over half a million pH Score holders today, it is NOT possible to send individual mailer to all of you every time there is an opportunity.  Hence eLitmus maintains mailing groups. The mailing groups are powered by googlegroups. The owner of the group (in this case eLitmus) sends a mail to the googlegroup. Google in turn forwards this mail to all individuals who have opted to receive the mail.  Note:You need to join the group in order to receive the mails. To understand how to join any of our groups, read the article “How to join eLitmus mailing groups?”"
+		} ,
+	
+		{
+		  "title"    : "This is sample article from elocal?",
+		  "category" : "pH Test",
+		  "url"     : "/ph%20test/this-is-sample-article-from-elocal/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "eLitmus is an innovative step towards streamlining entry-level recruitments. Our philosophy is to evaluate candidates across India.created on 11 july."
+		} ,
+	
+		{
+		  "title"    : "This is sample article 2 on july 5?",
+		  "category" : "pH Test",
+		  "url"     : "/ph%20test/this-is-sample-article-2-on-july-5/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "The test fees is Rs. 750There are three ways you can use to pay the test fee:"
+		} ,
+	
+		{
+		  "title"    : "Paid for a pH test but was not able to attend...",
+		  "category" : "Candidates",
+		  "url"     : "/candidates/paid-for-a-ph-test-but-was-not-able-to-attend-dot-dot-dot/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "In case you were unable to attend the pH test despite of having received an admit card, you will be eligible to get a discount code of Rs.500 . The code will be enabled in your eLitmus account within a week of the pH test you have applied. You can use the discount code to pay part of the test fee for the next pH test.To use the code, login to your elitmus account and apply for another pH test within the next two test dates. Go to Tests -&amp;gt;My Tests and click on the link âApply a scholarship codeâ and enter the code in the space provided. This will redeem that voucher and you will be able to take up the exam at Rs. 250. You can pay the balance amount by Cash/DD/Online."
+		} ,
+	
+		{
+		  "title"    : "Overview of the total process..",
+		  "category" : "pH Test",
+		  "url"     : "/ph%20test/overview-of-the-total-process-dot/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "The overall process can be explained as follows:–&amp;gt; Go to www.eLitmus.com and click on Sign Up, Register here by entering your email id and password.–&amp;gt; Fill up your profile with your Personal and Academic details.–&amp;gt; Activate your account by clicking on the link sent to your email id.–&amp;gt; Go to Tests-&amp;gt;All Tests and apply for pH test.–&amp;gt; Make the payment either in cash (only in Bangalore office) or by DD or online.–&amp;gt; Admit card link will be generated below the registration id and will be activated 2 days before the test after payment.–&amp;gt; Normally the results will be declared within 1 week of test in Tests-&amp;gt;Scores section.–&amp;gt; Go to Jobs-&amp;gt; All Jobs and apply to whichever company you are interested in.–&amp;gt; Check the status of your candidature in the Jobs-&amp;gt;My Jobs section.–&amp;gt; Shortlisted/ Called for Interview candidates confirm and download their Interview call-letters in the Jobs-&amp;gt;Interviews section.–&amp;gt; If offered, just leave a feedback of your experience with us."
+		} ,
+	
+		{
+		  "title"    : "My Xth and XIIth scores awarded in grades...",
+		  "category" : "Profile",
+		  "url"     : "/profile/my-xth-and-xiith-scores-awarded-in-grades-dot-dot-dot/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "You can enter equivalent percentages (this is must). Also fill up the grades."
+		} ,
+	
+		{
+		  "title"    : "My university is not in the list. What will I do?",
+		  "category" : "Profile",
+		  "url"     : "/profile/my-university-is-not-in-the-list-what-will-i-do/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "The list of Universities is not exhaustive. Please enter âOthers” as your University in case the name of your University does not appear in the list."
+		} ,
+	
+		{
+		  "title"    : "My percentile keeps on changing. Why is that?",
+		  "category" : "Score",
+		  "url"     : "/score/my-percentile-keeps-on-changing-why-is-that/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "Percentile is calculated on the total number of candidates taking/have taken up the pH test, hence it is dynamic in nature. Your percentile might vary when compared with a newer pool of candidates."
+		} ,
+	
+		{
+		  "title"    : "My DD reached late. So I cannot take the pH test....",
+		  "category" : "Payments",
+		  "url"     : "/payments/my-dd-reached-late-so-i-cannot-take-the-ph-test-dot-dot-dot/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "In case your DD reached us late, you need to go to the Tests –&amp;gt; My Tests section where you will find the link for reschedule. You can reschedule your pH test for a maximum of 3 times and within 3 months from the date of your first pH test date or DD received date which ever is later."
+		} ,
+	
+		{
+		  "title"    : "Is pH test mandatory or just registration will do?",
+		  "category" : "eLitmus",
+		  "url"     : "/elitmus/is-ph-test-mandatory-or-just-registration-will-do/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "You have to take the pH test to get your own pH percentile. Without this, you will not be able to apply to companies and hence not receive interview calls."
+		} ,
+	
+		{
+		  "title"    : "Is pH test limited to professional graduates?",
+		  "category" : "Eligibility for pH test",
+		  "url"     : "/eligibility%20for%20ph%20test/is-ph-test-limited-to-professional-graduates/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "No. The test is open to graduates from all streams.eLitmus is targeted mainly towards the IT sector; though not often, companies from other industries also recruit using eLitmus platform."
+		} ,
+	
+		{
+		  "title"    : "Is it must to carry original marksheets in pH test?",
+		  "category" : "Candidates",
+		  "url"     : "/candidates/is-it-must-to-carry-original-marksheets-in-ph-test/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "Yes, it is mandatory to carry the originals of all the marksheets to the pH test center. We do not verify Xerox/attested copies of the same.In case you fail to produce the originals, your score will be “Withheld” until you get it verified by us.You can either come down to our Bangalore office to show them or can take it to your nearest pH test center when the next test takes place.We will be releasing the score within 15 working days after the verifications.  Note: You have to carry a copy of your admit card when you come for verification."
+		} ,
+	
+		{
+		  "title"    : "Is eLitmus service like an e-recruitment site?",
+		  "category" : "eLitmus",
+		  "url"     : "/elitmus/is-elitmus-service-like-an-e-recruitment-site/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "No. This service is not like an e-recruitment site.In eLitmus, the participating companies get to see only profiles that are evaluated and would shortlist you based on the pH test scores and other qualifications."
+		} ,
+	
+		{
+		  "title"    : "I haven&#39;t scored well in my pH test .Can I retake it?",
+		  "category" : "Score",
+		  "url"     : "/score/i-havent-scored-well-in-my-ph-test-can-i-retake-it/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "There is no restriction on the number of times you can take the pH test. Your three latest scores will be visible to the companies. The best of them will be considered for shortlisting."
+		} ,
+	
+		{
+		  "title"    : "I have sent DD but have not yet been approved for pH test...",
+		  "category" : "Payments",
+		  "url"     : "/payments/i-have-sent-dd-but-have-not-yet-been-approved-for-ph-test-dot-dot-dot/",
+		  "date"     : "2014-06-16 16:19:14 +0530",
+		  "content"	: "There could be three possible scenarios:a) Your DD has not been received (Please do budget sufficient time for mail delivery).b) The required information/details (Registration Id etc) were not/wrongly entered.c) The DD is not payable to ‘eLitmus Evaluation Pvt Ltd’/not payable at Bangalore.  Note: If your test application is not approved at the latest 48 hours before the applied test date, then write to us query@elitmus.com"
+		} ,
+	
+		{
+		  "title"    : "I have got around 60% in all my academics.Can I get a job?",
+		  "category" : "Shortlisting",
+		  "url"     : "/shortlisting/i-have-got-around-60-percent-in-all-my-academics-dot-can-i-get-a-job/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "Companies typically shortlist students for interview calls on basis of the skill sets required for the job profile.  For every job, eLitmusâ AI engine assigns a rank to each student based on preferences and job profile set by the companies. So it is possible that you might be ranked higher than your friend in company âAâ but in company âBâ your friend is ranked higher despite having a lower score.  This could be because Company A is engaged in R&amp;amp;D and hence gives higher weightage to individuals who have solved questions related to following skills â out of box thinking, algorithmic thinking, simplification, relational thinking, encapsulation and abstraction. Company B might be engaged in providing software services work or QA work. And hence will give higher weightage to individuals who have solved questions related to following skills â methodical approach, eye for detail, perseverance, patience etc."
+		} ,
+	
+		{
+		  "title"    : "I have back in last semester. Can I take pH test?",
+		  "category" : "Eligibility for pH test",
+		  "url"     : "/eligibility%20for%20ph%20test/i-have-back-in-last-semester-can-i-take-ph-test/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "In the pH test center it is mandatory to show the original mark sheets (we do not accept Photo copies/attested copies) of your graduation. In case you fail to produce those, your score will be kept on HOLD till you verify them with us. So we suggest you to take the test after clearing all your backlogs/arrears."
+		} ,
+	
+		{
+		  "title"    : "I have 2+ yrs experience. Can I get any placement?",
+		  "category" : "Eligibility for pH test",
+		  "url"     : "/eligibility%20for%20ph%20test/i-have-2-plus-yrs-experience-can-i-get-any-placement/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "eLitmus provides solution to professionals between 0-2 years of experience. Currently we do not handle any lateral placements."
+		} ,
+	
+		{
+		  "title"    : "I forgot to give/ gave wrong details behind the DD...",
+		  "category" : "Payments",
+		  "url"     : "/payments/i-forgot-to-give-slash-gave-wrong-details-behind-the-dd-dot-dot-dot/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "Write a mail to query@elitmus.com with your Candidate Id, Registration ID, DD number, DD issuing bank and test date indicating the same."
+		} ,
+	
+		{
+		  "title"    : "I forgot my password/user id. How can I get it?",
+		  "category" : "Registration",
+		  "url"     : "/registration/i-forgot-my-password-slash-user-id-how-can-i-get-it/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "-Click on Forgot Password-Provide your email Id which you filled last time.-A password will be mailed to you.-Besides Inbox check your bulk / junk folder."
+		} ,
+	
+		{
+		  "title"    : "I don&#39;t have Passport/DL. What can be a valid id?",
+		  "category" : "Candidates",
+		  "url"     : "/candidates/i-dont-have-passport-slash-dl-what-can-be-a-valid-id/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "You can bring any one from the listed identity cards (original only)- Voter Identity Card- Passport- PAN Card- Driving License- Photo ID card issued by Central / State Govt- Nationalised Bank Passbook with photograph"
+		} ,
+	
+		{
+		  "title"    : "I am told my DD is invalid. How can I get it back?",
+		  "category" : "Refunds",
+		  "url"     : "/refunds/i-am-told-my-dd-is-invalid-how-can-i-get-it-back/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "You need to send a mail to us query@elitmus.com stating the request. You can collect it either from our office in Bangalore or any nearest pH test center venue on the test date as mutually agreed."
+		} ,
+	
+		{
+		  "title"    : "I am marked Absent though I gave pH test. Why?",
+		  "category" : "Score",
+		  "url"     : "/score/i-am-marked-absent-though-i-gave-ph-test-why/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "Your scores could be withheld for one of the following reasons:1) Admit card not produced and/or2) Admit card without your photograph and/or3) No Photo Id proof and/or4) X, XII, Graduation original marks cards not verified.5) Our system has flagged you for possible violation of certain terms and conditions.  You can bring your originals to our Bangalore office during working hours and get it verified between 10.00 AM to 5.00 PMFor verification of original marks cards, in centers other than Bangalore, you have to bring a printout of your admit card along with original marks cards at the next pH test date and meet the eLitmus supervisor.Please call us on our support number to get the test venue 2 days before the test date.Once your originals are verified scores will be released within 2 weeks."
+		} ,
+	
+		{
+		  "title"    : "I am in my final Year. I donot have an aggregate...",
+		  "category" : "Profile",
+		  "url"     : "/profile/i-am-in-my-final-year-i-donot-have-an-aggregate-dot-dot-dot/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "You could enter your aggregate till your pre-final year (which would be locked when you apply for a test) and add your aggregate in the aggregate % field."
+		} ,
+	
+		{
+		  "title"    : "I am in 3rd/2nd yr of Engineering.Can I apply for pH test?",
+		  "category" : "Eligibility for pH test",
+		  "url"     : "/eligibility%20for%20ph%20test/i-am-in-3rd-slash-2nd-yr-of-engineering-dot-can-i-apply-for-ph-test/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "Though there is no eligibility criteria as such to take up the pH test, it will be most beneficial if you take up the test when you are in the pre-final or final year"
+		} ,
+	
+		{
+		  "title"    : "I am getting no calls from any company. Why is that?",
+		  "category" : "Apply To Company",
+		  "url"     : "/apply%20to%20company/i-am-getting-no-calls-from-any-company-why-is-that/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "eLitmus uses an artificial intelligent (AI) engine which uses extremely complex algorithms. The objective is to ensure candidates find jobs by being rejected in minimum number of places and that companies find talent which actually performs on the job.  The success of the AI engine can be gauged from the fact that for every 3 candidates who attend selection process of a company through eLitmus, one gets offered.  For every job, eLitmusâ AI engine assigns a rank to each student based on preferences and job profile set by the companies. So it is possible that you might be ranked higher than your friend in company âAâ but in company âBâ your friend is ranked higher despite having a lower score. This could be because Company A is engaged in R&amp;amp;D and hence gives higher weightage to individuals who have solved questions related to following skills â out of box thinking, algorithmic thinking, simplification, relational thinking, encapsulation and abstraction. Company B might be engaged in providing software services work or QA work. And hence will give higher weightage to individuals who have solved questions related to following skills â methodical approach, eye for detail, perseverance, patience etc.  Apart from these, some companies might have additional preference on basis of Geography and Academic credentials (for example: candidates from a particular state or candidates with above 65% throughout or candidates from certain colleges etc)"
+		} ,
+	
+		{
+		  "title"    : "I am an MBA. Can eLitmus help me?",
+		  "category" : "Eligibility for pH test",
+		  "url"     : "/eligibility%20for%20ph%20test/i-am-an-mba-can-elitmus-help-me/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "There is no eligibility criteria as such to take up the pH test. The pH test is respected by software companies and primarily used for hiring within the IT industry. Currently there are not many opportunities for MBAs through eLitmus."
+		} ,
+	
+		{
+		  "title"    : "I am 2008/2009  batch fresher. Can eLitmus help me?",
+		  "category" : "Eligibility for pH test",
+		  "url"     : "/eligibility%20for%20ph%20test/i-am-2008-slash-2009-batch-fresher-can-elitmus-help-me/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "eLitmus is fresher evaluation body hence a majority of the companies hiring through us will look for candidates with 0-2 years of experience. Hence candidates passing out from the current batch are preferred over candidates from previous batches."
+		} ,
+	
+		{
+		  "title"    : "How would companies contact me if I am short-listed?",
+		  "category" : "Shortlisting",
+		  "url"     : "/shortlisting/how-would-companies-contact-me-if-i-am-short-listed/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "Your status will be updated under the “Interviews” section in your elitmus account whenever a company shortlists/rejects/offers you."
+		} ,
+	
+		{
+		  "title"    : "How will eLitmus help me?",
+		  "category" : "eLitmus",
+		  "url"     : "/elitmus/how-will-elitmus-help-me/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "eLitmus conducts a test called pH test across the country once every 2 weeks. Several IT companies use the pH score as a hiring tool. Candidates with a valid pH score can apply to all the companies hiring through eLitmus. pH score makes a candidate visible to the corporate world.  Go through this link to have view of some of our clients, which have used our pH score so far: www.elitmus.com/comp_list"
+		} ,
+	
+		{
+		  "title"    : "How to join eLitmus mailing groups?",
+		  "category" : "Candidates",
+		  "url"     : "/candidates/how-to-join-elitmus-mailing-groups/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "The eLitmus mailing group is hosted on GoogleGroups. There are multiple groups and you may join any of these based on your preference.To join a group, please visit www.elitmus.com/subscribe_groups   Note:1. Google will send a mail to confirm if you want to join the group, ensure that you click on the “confirmation link” in the mail in order to confirm(if you do not get the mail, please check spam/bulk folder for the same)2. To know more about eLitmus Googlegroups, read the article âWhat are eLitmus Googlegroups?â"
+		} ,
+	
+		{
+		  "title"    : "How many times can I reschedule?",
+		  "category" : "Candidates",
+		  "url"     : "/candidates/how-many-times-can-i-reschedule/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "You can reschedule your pH test for a maximum of 3 times and within 3 months from the date of your first pH test date or DD received date which ever is later."
+		} ,
+	
+		{
+		  "title"    : "How long will my pH score be valid?",
+		  "category" : "Score",
+		  "url"     : "/score/how-long-will-my-ph-score-be-valid/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "The pH score and percentile will be valid for a period of 2 years from the date of the test."
+		} ,
+	
+		{
+		  "title"    : "How long does it take to get the pH score?",
+		  "category" : "Score",
+		  "url"     : "/score/how-long-does-it-take-to-get-the-ph-score/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "The score is declared generally within 1 week of taking the pH test. You can check your scores by logging in to your eLitmus account under Tests–&amp;gt;Scores section."
+		} ,
+	
+		{
+		  "title"    : "How do I pay pH test fee? and How much?",
+		  "category" : "pH Test",
+		  "url"     : "/ph%20test/how-do-i-pay-ph-test-fee-and-how-much/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "The test fees is Rs. 750There are three ways you can use to pay the test fee:(1) Online -&amp;gt; If you have a credit card or online banking facility, you can pay the test fee online.(2) Demand Draft -&amp;gt;You could send a demand draft drawn in favor of “eLitmus Evaluation Private Limited” and payable at Bangalore. You need to mention your Name and Registration Id on the backside of the DD.(3) By Cash-&amp;gt; We accept cash only in our Bangalore office. Candidates need to get their pH test registration id."
+		} ,
+	
+		{
+		  "title"    : "How do I apply to companies?",
+		  "category" : "Apply To Company",
+		  "url"     : "/apply%20to%20company/how-do-i-apply-to-companies/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "Participating companies would announce their requirements on our website. Once you are sure you meet the eligibility criteria, you can apply to companies online. You need to go to Jobs –&amp;gt; All Jobs section and you will find link to apply."
+		} ,
+	
+		{
+		  "title"    : "How do I apply for a pH test?",
+		  "category" : "pH Test",
+		  "url"     : "/ph%20test/how-do-i-apply-for-a-ph-test/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "To apply to a pH Test follow below steps:–&amp;gt; Go to www.eLitmus.com and click on Sign Up, Register here by entering your email id and password.–&amp;gt; Fill up your profile with your Personal and Academic details.–&amp;gt; Activate your account by clicking on the link sent to your email id–&amp;gt; Go to Tests-&amp;gt;All Tests and apply for pH test.–&amp;gt;Then go to ‘Tests’-&amp;gt;’My Tests’ section to get your Registration Id. You can either pay online from here or send us DD or pay in cash in our Bangalore office."
+		} ,
+	
+		{
+		  "title"    : "How do companies evaluate the scores?",
+		  "category" : "Shortlisting",
+		  "url"     : "/shortlisting/how-do-companies-evaluate-the-scores/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "eLitmus uses an artificial intelligent (AI) engine which uses extremely complex algorithms. The objective is to ensure candidates find jobs by being rejected in minimum number of places and that companies find talent which actually performs on the job.  The success of the AI engine can be gauged from the fact that for every 3 candidates who attend selection process of a company through eLitmus, one gets offered.  For every job, eLitmusâ AI engine assigns a rank to each student based on preferences and job profile set by the companies. So it is possible that you might be ranked higher than your friend in company âAâ but in company âBâ your friend is ranked higher despite having a lower score. This could be because Company A is engaged in R&amp;amp;D and hence gives higher weightage to individuals who have solved questions related to following skills â out of box thinking, algorithmic thinking, simplification, relational thinking, encapsulation and abstraction. Company B might be engaged in providing software services work or QA work. And hence will give higher weightage to individuals who have solved questions related to following skills â methodical approach, eye for detail, perseverance, patience etc.  To illustrate this further - in a cricketing skills test, Sachin Tendulkar might score better than Mahendra Singh Dhoni at the overall level, but when the vacancy is for wicket keeper â Dhoni will be ranked higher given he has more wicket keeping experience. Similarly if a team seeks an opening batsman they would tend to prefer Sachin.  Apart from these, some companies might have additional preference on basis of Geography and Academic credentials (for example: candidates from a particular state or candidates with above 65% throughout or candidates from certain colleges etc)"
+		} ,
+	
+		{
+		  "title"    : "How can I prepare for the pH test?",
+		  "category" : "pH Test",
+		  "url"     : "/ph%20test/how-can-i-prepare-for-the-ph-test/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "Go to www.elitmus.com/ph_test for test details. You can refer any standard MBA entrance exam material/aptitude material while preparing."
+		} ,
+	
+		{
+		  "title"    : "How can I pay online? Do I need to have a Credit card?",
+		  "category" : "Payments",
+		  "url"     : "/payments/how-can-i-pay-online-do-i-need-to-have-a-credit-card/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "You need to go to the Tests –&amp;gt; My Tests ? click on âPayment Optionsâ link and choose the âPay Onlineâ option. Once you click âPay online nowâ you will be directed to our payment gateway.You can pay via(i) Credit card(ii) NetBanking account of the listed banks(iii) PAYMATE facility of CitiBank(iv) Itz cash cards."
+		} ,
+	
+		{
+		  "title"    : "How can I know about the pH venue details?",
+		  "category" : "Candidates",
+		  "url"     : "/candidates/how-can-i-know-about-the-ph-venue-details/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "The venue details of pH test will be mentioned on the Admit card. You will get the Admit card 2 days before the test in the Tests –&amp;gt; My Tests section."
+		} ,
+	
+		{
+		  "title"    : "How can I change my final percentage?",
+		  "category" : "Profile",
+		  "url"     : "/profile/how-can-i-change-my-final-percentage/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "You need to fill out the details in the Discrepancy form which you will find with the Admit card. You can hand over the filled form when you appear for your pH test at your pH test center or come down to our Bangalore office and submit the same.In case you have already taken up the test, please call us on our support number (+91-7259 104 794) to get the test venue 2 working days before the test date."
+		} ,
+	
+		{
+		  "title"    : "Full list of companies hiring pH score holders.",
+		  "category" : "Candidates",
+		  "url"     : "/candidates/full-list-of-companies-hiring-ph-score-holders/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "We cannot disclose the exhaustive list of the companies participating to avoid the risk of CVs flooding into the mailboxes of clients directly.Go through this link to have a view of some of our clients, which have used our pH score so far: www.elitmus.com/comp_list"
+		} ,
+	
+		{
+		  "title"    : "Does eLitmus guarantee jobs?",
+		  "category" : "eLitmus",
+		  "url"     : "/elitmus/does-elitmus-guarantee-jobs/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "eLitmus does not guarantee jobs. A good pH score can get you interview calls, beyond that it entirely depends on how you perform in the Interviews/technical rounds."
+		} ,
+	
+		{
+		  "title"    : "Do you provide sample papers?",
+		  "category" : "pH Test",
+		  "url"     : "/ph%20test/do-you-provide-sample-papers/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "No. We do not provide sample question papers. We don’t think it is necessary for one to go through a sample paper to be able to perform better in pH test. The test is designed to measure your natural ability. You are not even expected to remember formulas while taking up the exam. All necessary formulas are given in the question paper itself."
+		} ,
+	
+		{
+		  "title"    : "Do you have any opening for Biotech/Life Sciences?",
+		  "category" : "Eligibility for pH test",
+		  "url"     : "/eligibility%20for%20ph%20test/do-you-have-any-opening-for-biotech-slash-life-sciences/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "The pH test is respected by many software companies (see our website for the list) and primarily used for hiring software related jobs. In some of our existing clients, they look out for Life Sciences/Biotech fields too, but these are not frequent opportunities on the site, as yet."
+		} ,
+	
+		{
+		  "title"    : "Can I take more than one pH test?",
+		  "category" : "pH Test",
+		  "url"     : "/ph%20test/can-i-take-more-than-one-ph-test/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "Yes, you can take up multiple pH tests. But every time you take, you have to pay the test fee. In case of multiple tests, typically your best performance will be considered while shortlisting."
+		} ,
+	
+		{
+		  "title"    : "Can I reschedule pH test? How?",
+		  "category" : "Candidates",
+		  "url"     : "/candidates/can-i-reschedule-ph-test-how/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "Yes. You can reschedule your test to a different available date , before the Last Date to Reschedule . You cannot reschedule a test after this date.To reschedule, log in to your account and Go to Tests-&amp;gt; My Tests and click on the link -&amp;gt; Reschedule.You can eithera) Change the Test Location:(depending on availability at the new location and before the last date of reschedule)b) Date of test: (depending on availability on the new date and before the last date of reschedule)  At the maximum, three reschedules are permissible."
+		} ,
+	
+		{
+		  "title"    : "Can I pay in cash?",
+		  "category" : "Payments",
+		  "url"     : "/payments/can-i-pay-in-cash/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "Yes you can. Cash is only accepted in our Bangalore office. You can come down to our office on a working day anytime between 10.00am and 6.00pm to make the payment.Note: Please carry your registration id."
+		} ,
+	
+		{
+		  "title"    : "Can I modify my details once I have submitted them?",
+		  "category" : "Profile",
+		  "url"     : "/profile/can-i-modify-my-details-once-i-have-submitted-them/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "You can modify all details till you apply for a test. Once you have applied for a test, all the data is locked for verification. Further only contact details can be modified. However, after taking the test, you can modify data by filling up the Discrepancy form available with Admit card."
+		} ,
+	
+		{
+		  "title"    : "Can I cancel pH test once I have made payment?",
+		  "category" : "Candidates",
+		  "url"     : "/candidates/can-i-cancel-ph-test-once-i-have-made-payment/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "No. Once we have received the payment, our system would automatically allocate a seat for you in the test location. Cancellation of the same is not possible, however you could reschedule your pH test to a future date for a maximum of three times and within 3 months from the date of your first pH test date or DD received date which ever is later."
+		} ,
+	
+		{
+		  "title"    : "Can alternate email id be different from login-id?",
+		  "category" : "Registration",
+		  "url"     : "/registration/can-alternate-email-id-be-different-from-login-id/",
+		  "date"     : "2014-06-16 16:19:13 +0530",
+		  "content"	: "Yes. But unless you change alternate id, the Login id would be taken as alternate id by default. Normally all communication would be directed to your Login id. In case you want us to send it across to your alternate id also, you could choose the option."
+		} ,
+	
+		{
 		  "title"    : "Using Monit to get email alert on unauthorized login",
 		  "category" : "technology",
 		  "url"     : "/technology/using-monit-to-get-email-alert-on-unauthorized-login/",
