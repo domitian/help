@@ -19,12 +19,7 @@ body { padding-top: 70px; }
 }
 
 /* setting the width of dropdown for search*/
-.dropdown-menu {
 
-  word-wrap: break-word;
-
-  width: 100%; 
-}
 .social-sharing {
   line-height: 100%;
 }
