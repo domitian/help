@@ -1,6 +1,7 @@
 function urlToTitle(refer) {
     refer = refer.substring(1, refer.length - 1);
-    return refer.split('-').join(' ');
+    console.log(refer.split('-').join(' '));
+    return decodeURI(refer.split('-').join(' '));
 }
 
 function highlightText(sTH,index,textToHighlight){
@@ -22,7 +23,6 @@ function getMoreData(index, data, originalData, searchTerm) {
 }
 
 function getSearchText(opt,search){
-    console.log('inside seartchtext '+ opt);
     if (opt == "All" || opt == undefined){
         return search;
     }
