@@ -479,11 +479,14 @@ span + .entry-title {
 	display: none; 
 	}
 	.search-box-margin {
-	  margin: 6px 0px 6px 5px;
+	  margin: 6px 0px 6px 0px;
 	}	
-	#search-box-focus {
-		width: 60%;
+	#search-box:focus {
+		width: 150%;
 		border-color: rgb(204, 204, 204);
+	}
+	#search-box {
+		width: 150px;
 	}
 }
 @media screen and (min-device-width: 980px){
@@ -496,5 +499,11 @@ span + .entry-title {
 	}
 
 }
+.dropdown-menu {
+  font-size: 16px;
+  word-wrap: break-word;
+}
+
+
 
 
