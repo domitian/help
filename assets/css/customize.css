@@ -25,18 +25,12 @@ body { padding-top: 70px; }
 
   width: 100%; 
 }
-#search-box:focus {
-  width: 400px;
-  border-color: blue;
-}
 .social-sharing {
   line-height: 100%;
 }
 
 
-.search-box-margin {
-  margin: 6px 0px 6px 150px;
-}
+
 
 .nav-icon-size-reduce {
   font-size: 14px;
@@ -81,9 +75,9 @@ body { padding-top: 70px; }
   font-size: 16px;
 }
 
-.insertCategory {
+/*.insertCategory {
   width: 120px;
-}
+}*/
 
 .categories-heading{
   font-weight: bold;
