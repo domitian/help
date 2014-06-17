@@ -9,7 +9,7 @@ tags: [eLitmus, recent]
   {% for category in site.categories %}
     <div class="col-md-4">
     <a name="{{ category | first }}" href="{{ site.url }}{{ site.baseurl }}/categories/{{ category | first }}/index.html"><strong>{{ category | first | capitalize }}</strong></a>
-    <div class="category-list-box">
+      <div class="category-list-box">
         <ul class='post-list'>
         {% for posts in category %}
           {% for post in posts limit:2 %}
@@ -18,8 +18,10 @@ tags: [eLitmus, recent]
             {% endif %}
           {% endfor %}
         {% endfor %}
+      <a href="{{ site.url }}{{ site.baseurl }}/categories/{{ category | first }}/index.html" rel="nofollow" class="read-more pull-right"> read more &raquo;</a>
         </ul>
       </div>
+
     </div>
     <div class="clearfix visible-xs"></div>
   {% endfor %}
