@@ -8,17 +8,18 @@ tags: [eLitmus, recent]
 <div class="row">
   {% for category in site.categories %}
     <div class="col-md-4">
-    <a name="{{ category | first }}"><strong>{{ category | first | capitalize }}</strong></a>
-      <ul class='post-list'>
-      {% for posts in category %}
-        {% for post in posts limit:2 %}
-          {% if post.url %}
-            <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-          {% endif %}
+    <a name="{{ category | first }}" href="{{ site.url }}{{ site.baseurl }}/categories/{{ category | first }}/index.html"><strong>{{ category | first | capitalize }}</strong></a>
+    <div>
+        <ul class='post-list'>
+        {% for posts in category %}
+          {% for post in posts limit:2 %}
+            {% if post.url %}
+              <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+            {% endif %}
+          {% endfor %}
         {% endfor %}
-      {% endfor %}
-      </ul>
-    </li>
+        </ul>
+      </div>
     </div>
     <div class="clearfix visible-xs"></div>
   {% endfor %}
